@@ -11,7 +11,8 @@ We have implemented 5 algorithms such as: <br/>
 5. Support Vector Machine (SVM)
 
 <br/>
-**Team Members** </br>
+<br/>
+**Team Members** <br/>
 1. Ashmi Chheda
-2. Abhishek Muralikrishnan
-3. Sai Teja Padakandla
+2. Sai Teja Padakandla
+3. Abhishek Muralikrishnan
