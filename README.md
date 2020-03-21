@@ -9,3 +9,9 @@ We have implemented 5 algorithms such as: <br/>
 3. Decision Tree Algorithm
 4. Random Forest Classifier
 5. Support Vector Machine (SVM)
+
+<br/>
+**Team Members** </br>
+1. Ashmi Chheda
+2. Abhishek Muralikrishnan
+3. Sai Teja Padakandla
