@@ -10,9 +10,7 @@ We have implemented 5 algorithms such as: <br/>
 4. Random Forest Classifier
 5. Support Vector Machine (SVM)
 
-<br/>
-<br/>
-**Team Members** <br/>
+**Project Team Members:** <br/>
 1. Ashmi Chheda
 2. Sai Teja Padakandla
 3. Abhishek Muralikrishnan
